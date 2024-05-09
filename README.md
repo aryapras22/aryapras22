@@ -8,7 +8,12 @@ Hi, I'm a second-year Information Systems student at Airlangga University. Skill
 <a href="https://instagram.com/aryaa0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaa0102" height="30" width="40" /></a>
 </p>
 
-<h3>Web Dev</h3>
+| <h3>Web Dev</h3>  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 <p> 
   <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
