@@ -1,5 +1,5 @@
 ### <h1> Hello There 👋 </h1>
-
+Hi, I'm a second-year Information Systems student at Airlangga University. Skilled in team communication, leadership, and problem-solving, I'm driven by a passion for continuous growth. Open to new experiences, I'm eager to contribute and learn. Let's connect and discuss how I can bring value to your team or project
 
 
 <h3 align="left">Connect with me:</h3>
