@@ -10,7 +10,7 @@ Hi, I'm a second-year Information Systems student at Airlangga University. Skill
 
 <h3>Web Dev</h3>
 <p> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
