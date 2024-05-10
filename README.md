@@ -16,7 +16,7 @@ Hi, I'm a second-year Information Systems student at Airlangga University. Skill
 | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> | | | |
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryapras22)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&locale=en" alt="aryapras22" />
