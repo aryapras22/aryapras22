@@ -19,8 +19,8 @@ Hi, I'm a second-year Information Systems student at Airlangga University. Skill
 
 
 <p align="center">
-  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&locale=en" alt="aryapras22" />
-  <img align="center" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=aryapras22&" alt="aryapras22" />
+<!--   <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&locale=en" alt="aryapras22" />
+  <img align="center" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=aryapras22&" alt="aryapras22" /> -->
 </p>
 
 
