@@ -6,10 +6,8 @@ Hi, I'm a third-year Information Systems student at Airlangga University. Skille
 <p align="left">
 <a href="https://www.linkedin.com/in/arya-prasetya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-prasetya/" height="30" width="40" /></a>
 <a href="https://instagram.com/aryaa0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaa0102" height="30" width="40" /></a>
+  <a href="https://www.aryaprasetya.me/" target="blank">aryaprasetya.me</a>
 </p>
-<a href="https://www.aryaprasetya.me/">
-  aryaprasetya.me
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&layout=compact)
 
