@@ -9,7 +9,7 @@ Hi, I'm a third-year Information Systems student at Airlangga University. Skille
   <a href="https://www.aryaprasetya.me/" target="blank">aryaprasetya.me</a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&hide=jupyternotebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&hide=jupyter%20notebook&layout=compact)
 
 
 
