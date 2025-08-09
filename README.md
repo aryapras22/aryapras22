@@ -6,7 +6,7 @@ Hi, I'm a final year Information Systems student at Airlangga University. Skille
 <p align="left">
 <a href="https://www.linkedin.com/in/arya-prasetya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-prasetya/" height="30" width="40" /></a>
 <a href="https://instagram.com/aryaa0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaa0102" height="30" width="40" /></a>
-  <a href="[https://www.aryaprasetya.me](https://www.caffeine-junkie.xyz/)/" target="blank">aryaprasetya.me</a>
+  <a href="https://www.caffeine-junkie.xyz/" target="blank">aryaprasetya.me</a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&hide=jupyter%20notebook&layout=compact)
