@@ -1,5 +1,5 @@
 ### <h1> Hello There 👋 </h1>
-Hi, I'm a Software Engineer and Information Systems Undergraduate. Open to new experiences, I'm eager to contribute and learn. Let's connect and discuss how I can bring value to your team or project
+Hi, AI/ML Engineer & NLP Researcher. I build LLM-powered systems (RAG, agentic pipelines) and have a government-funded research background in NLP-based requirement elicitation, published in a Scopus Q2 journal. Currently building agentic, on-device LLM systems at Apple Developer Academy. Open to remote AI/ML Engineer roles across Indonesia and APAC.
 
 
 <h3 align="left">Connect with me:</h3>
