@@ -1,21 +1,14 @@
-### <h1> Hello There 👋 </h1>
-Hi I'm Arya, an AI/ML Engineer & NLP Researcher. I build LLM-powered systems (RAG, agentic pipelines) and have a government-funded research background in NLP-based requirement elicitation, published in a Scopus Q2 journal. Currently building agentic, on-device LLM systems at Apple Developer Academy. Open to remote AI/ML Engineer roles across Indonesia and APAC.
+### Hi, I'm Arya 👋
 
+Software Engineer working on AI/ML systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arya-prasetya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-prasetya/" height="30" width="40" /></a>
-  <a href="https://www.caffeine-junkie.xyz/" target="blank">caffeine-junkie.xyz</a>
-</p>
+**Stack:**
+- Web — React, Next.js, TypeScript, Laravel
+- Mobile — Flutter, Swift
+- AI/ML — Python, LangChain, spaCy, TensorFlow, scikit-learn
+- Systems — Docker, AWS, Linux, FastAPI
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&hide=jupyter%20notebook,dart&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&layout=compact&hide=Dart)
 
-
-
-
-<p align="center">
-<!--   <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&locale=en" alt="aryapras22" />
-  <img align="center" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=aryapras22&" alt="aryapras22" /> -->
-</p>
-
-
+📫 [LinkedIn](https://www.linkedin.com/in/arya-prasetya/) · [Portfolio](https://www.caffeine-junkie.xyz/) · [Research](https://doi.org/10.20473/jisebi.12.2.443-457)
