@@ -6,7 +6,7 @@ Software Engineer working on AI/ML systems.
 - Web — React, Next.js, TypeScript, Laravel
 - Mobile — Flutter, Swift
 - AI/ML — Python, LangChain, spaCy, TensorFlow, scikit-learn, NLTK
-- Systems — Docker, AWS, Linux, FastAPI
+- Systems — Docker, AWS, Linux Server, FastAPI, Proxmox
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&layout=compact&hide=Dart)
