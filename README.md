@@ -8,7 +8,6 @@ Software Engineer working on AI/ML systems.
 - AI/ML — Python, LangChain, spaCy, TensorFlow, scikit-learn, NLTK
 - Systems — Docker, AWS, Linux Server, FastAPI, Proxmox
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryapras22&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&layout=compact&hide=Dart)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryapras22&layout=compact&hide=Dart,Jupyter%20Notebook)
 
 📫 [LinkedIn](https://www.linkedin.com/in/arya-prasetya/) · [Portfolio](https://www.caffeine-junkie.xyz/) · [Research](https://doi.org/10.20473/jisebi.12.2.443-457)
